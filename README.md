@@ -9,4 +9,4 @@ Update the path to the Book2.xslx file and also the results file at the top of t
 
 Make sure you have the required packages (requests, openpyxl and json). 
 
-Enjoy the 4k saving in the Rockwell Lifecycle service by buying proper PLCs. :) 
+
